@@ -1,7 +1,17 @@
 {
-  "name": "mobile",
-  "version": "0.0.1",
-  "private": true,
+  "name": "gostack-2020-challenge-03",
+  "description": "React Native Concepts",
+  "author": "Walter Ribeiro",
+  "homepage": "https://github.com/walteribeiro/gostack-2020-challenge-03",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walteribeiro/gostack-2020-challenge-03.git"
+  },
+  "bugs": {
+    "url": "https://github.com/walteribeiro/gostack-2020-challenge-03/issues"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
